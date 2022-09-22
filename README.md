@@ -1,3 +1,3 @@
 # HTTP Webserver Implemented in C++
 
-Reference list: High Performance Linux Server Programming by Youshuang
+From High Performance Linux Server Programming by Youshuang
